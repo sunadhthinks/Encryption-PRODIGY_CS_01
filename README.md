@@ -38,8 +38,14 @@ To use the Caesar Cipher Tool, make sure you have Python installed on your syste
 1. Clone this repository to your local machine.
 2. Navigate to the directory where the program is located.
 3. Run the program by executing
-4. `cd encryption ` 
-5. `python3 encryption` in your terminal.
+4. ```bash
+   git clone https://github.com/sunadhthinks/Encryption-PRODIGY_CS_01.git
+   ls
+   cd Encryption-PRODIGY_CS_01
+   ls
+   cd encryption 
+   python3 encryption
+  -in your terminal.
 
 ## Contributing
 
