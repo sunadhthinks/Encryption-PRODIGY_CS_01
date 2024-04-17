@@ -37,7 +37,9 @@ To use the Caesar Cipher Tool, make sure you have Python installed on your syste
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory where the program is located.
-3. Run the program by executing `python caesar_cipher.py` in your terminal.
+3. Run the program by executing
+4. `cd encryption ` 
+5. `python3 encryption` in your terminal.
 
 ## Contributing
 
