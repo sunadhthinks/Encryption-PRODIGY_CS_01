@@ -43,7 +43,7 @@ To use the Caesar Cipher Tool, make sure you have Python installed on your syste
    ls
    cd Encryption-PRODIGY_CS_01
    ls
-   cd encryption 
+   cd Encryption 
    python3 encryption
   -in your terminal.
 
